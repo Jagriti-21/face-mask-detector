@@ -20,7 +20,7 @@
  - ######  Kaggle datasets
  
 ### :key: Prerequisites
-###### All the dependencies and required libraries are included in the file ``` requirements.txt ``` Run the following command in your Terminal/Command Prompt to install the libraries required
+###### All the dependencies and required libraries are included in the file       ``` requirements.txt ``` Run the following command in your Terminal/Command Prompt to install the libraries required
 
 ``` 
      $ pip3 install -r requirements.txt
