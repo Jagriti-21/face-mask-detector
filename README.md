@@ -17,7 +17,6 @@
 
 ###### The images were collected from the following sources:
 
- - ######  Bing Search API (See Python script)
  - ######  Kaggle datasets
  
 ### :key: Prerequisites
